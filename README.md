@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Pedro Miranda!
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pedroesm/)&nbsp; 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pLogicador&color=yellow" alt="Profile views" /> </p> 
 
