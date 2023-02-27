@@ -7,7 +7,7 @@
 - Developing projects to improve skills
 
 
-<p align="right">
+<p align="left">
 <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pLogicador&layout=compact&theme=dracula" alt="pLogicador's most language"/>
 </p>
 
