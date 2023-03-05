@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Pedro Miranda!
+## Hi there ! My name is Pedro Miranda!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pLogicador&color=yellow" alt="Profile views" /> </p> 
