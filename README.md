@@ -1,4 +1,4 @@
-## Hello, I'm Pedro Miranda 👋 
+## 👋 Hello, I'm Pedro Miranda
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pLogicador&color=yellow" alt="Profile views" /> </p> 
