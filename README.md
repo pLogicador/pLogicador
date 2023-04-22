@@ -26,7 +26,9 @@
 <div>
 </div></br>
 
- <img align= "center" alt= "Gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> pedroemanuelsm0@gmail.com
+ <img align= "center" alt= "Gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ 
+ pedroemanuelsm0@gmail.com
 
 <!--
 **pLogicador/pLogicador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
