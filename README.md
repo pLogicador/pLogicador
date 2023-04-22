@@ -22,7 +22,7 @@
 
 
 - University web developer, focused on programming
-- Developing projects to improve skills
+- I'm developing projects to improve skills
 <div>
 </div></br>
 
