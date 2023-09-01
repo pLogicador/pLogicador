@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Pedro Miranda
+## 👋 Hello, I'm Pedro Miranda || pLogicador 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroesm/)
