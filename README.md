@@ -3,13 +3,16 @@
 - University web developer, focused on programming
 - I'm developing projects to improve skills
 
-E-mail: pedroemanuelsm0@gmail.com
-</div></br>
+
+<div></br></div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pLogicador&color=yellow" alt="Profile views" /> </p> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroesm/)
+
+E-mail: pedroemanuelsm0@gmail.com
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pLogicador&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
