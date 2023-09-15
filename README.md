@@ -2,9 +2,9 @@
 
 - University web developer, focused on programming
 - I'm developing projects to improve skills
-<div>
-</div></br>
 
+E-mail: pedroemanuelsm0@gmail.com
+</div></br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pLogicador&color=yellow" alt="Profile views" /> </p> 
