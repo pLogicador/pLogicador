@@ -7,5 +7,3 @@
 <div></br></div>
 
 - [Pedro Miranda](https://github.com/pLogicador)
-- Email: pedroemanuelsm0@gmail.com
-- LinkedIn: [Pedro Miranda](https://www.linkedin.com/in/pedroesm/)
