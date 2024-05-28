@@ -22,7 +22,7 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
 
 ---
 
-### 🌐 Languages
+### 🌐 Languages and Frameworks 🚀
 <table>
   <tr>
     <td align="center" width="96">
@@ -49,13 +49,6 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
       <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
       <br>SQL
     </td>
-  </tr>
-</table>
-
-
-### 🚀 Frameworks
-<table>
-  <tr>
     <td align="center" width="96">
       <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <br>NodeJS
@@ -67,7 +60,8 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
   </tr>
 </table>
 
-### 🛠️ Tools
+
+### 🛠️ Tools and APIs & Testing 🔍
 
 <table>
   <tr>
@@ -87,13 +81,6 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
       <img alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
       <br>IntelliJ
     </td>
-  </tr>
-</table>
-
-### 🔍 APIs & Testing
-
-<table>
-  <tr>
     <td align="center" width="96">
       <img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
       <br>Postman
@@ -101,10 +88,13 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
   </tr>
 </table>
 
-### ☁️ Services
-
+### 💾 Databases and Services ☁️
 <table>
   <tr>
+    <td align="center" width="96">
+      <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <br>MySQL
+    </td>
     <td align="center" width="96">
       <img alt="GCP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
       <br>GCP
@@ -116,17 +106,6 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
     <td align="center" width="96">
       <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
       <br>Docker
-    </td>
-  </tr>
-</table>
-
-### 💾 Databases
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <br>MySQL
     </td>
   </tr>
 </table>
