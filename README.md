@@ -110,17 +110,17 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
   </tr>
 </table>
 
-### 💻 Operating Systems
+### 💻 Terminal Commands
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
-      <br>Windows
+      <img alt="Powershell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+      <br>Powershell
     </td>
     <td align="center" width="96">
-      <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <br>Linux
+      <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+      <br>Bash
     </td>
   </tr>
 </table>
