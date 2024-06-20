@@ -10,19 +10,11 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pLogicador?color=purple&labelColor=gray&style=for-the-badge&logo=person-add&label=Follow&logoColor=violet"/></a>
       <a href="https://github.com/pLogicador?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pLogicador?color=khaki&style=for-the-badge&labelColor=darkslateblue&logo=star"/></a>
-   </p>
+</p>
 
----
+#
 
-<h1 align="center">Improving Skills 😊👌 </h1>
-
-<div style="width: 50%; margin: 0 auto; overflow: hidden;">
-  <img style="object-fit: cover; object-position: center center; width: 100%; height: 100%;" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif" />
-</div>
-
----
-
-### 🌐 Languages and Frameworks 🚀
+### 🚀 Skills
 <table>
   <tr>
     <td align="center" width="96">
@@ -38,33 +30,30 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
       <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <br>Java
+    </td>
+      <td align="center" width="96">
+      <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
       <br>SQL
     </td>
-    <td align="center" width="96">
-      <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <img alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-      <br>Spring
-    </td>
   </tr>
 </table>
 
-
-### 🛠️ Tools and APIs & Testing 🔍
-
 <table>
   <tr>
+     <td align="center" width="96">
+      <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <br>MySQL
+    </td>
+      <td align="center" width="96">
+      <img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+      <br>Postman
+    </td>
     <td align="center" width="96">
       <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <br>Git
@@ -81,56 +70,14 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
       <img alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
       <br>IntelliJ
     </td>
-    <td align="center" width="96">
-      <img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-      <br>Postman
-    </td>
-  </tr>
-</table>
-
-### 💾 Databases and Services ☁️
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img alt="GCP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-      <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
-
-### 💻 Terminal Commands
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img alt="Powershell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-      <br>Powershell
-    </td>
-    <td align="center" width="96">
-      <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-      <br>Bash
-    </td>
   </tr>
 </table>
 
 
----
 <br />
 
 #
 
 ### 📊 Stats
-
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=pLogicador&show_icons=true&theme=tokyonight)
+
