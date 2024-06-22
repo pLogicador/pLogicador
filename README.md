@@ -2,7 +2,7 @@
 
 **`Back-End Developer (Server-Side/Clean Code Enthusiast)`**
 
-Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong programming skills, specializing in back-end development and server-side webservice. His creative approach to overcoming complex challenges stands out, showcasing his commitment to technical excellence. Additionally, Pedro actively shares his diverse technology projects in this repository, providing free access for anyone interested in exploring his varied contributions to the field.
+Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong programming skills, specializing in back-end development. His creative approach to overcoming complex challenges stands out, showcasing his commitment to technical excellence. Additionally, Pedro actively shares his diverse technology projects in this repository, providing free access for anyone interested in exploring his varied contributions to the field.
 
 
 <p align="left">
