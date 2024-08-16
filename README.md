@@ -15,10 +15,6 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
       </div> 
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pLogicador&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=15" />
-</p>
-
 #
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pLogicador&bg_color=0D0D0D&color=444DF2&line=F2D43D&point=A60303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -30,6 +26,7 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
 
 <br />
 
+<img src="https://github-profile-trophy.vercel.app/?username=pLogicador&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=15" />
 
 
 #
