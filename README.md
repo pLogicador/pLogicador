@@ -11,7 +11,7 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pLogicador?color=khaki&style=for-the-badge&labelColor=darkslateblue&logo=star"/>
       </a>
       <div align="center">  
-      <a href="https://www.linkedin.com/in/pedroesm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+      <a href="https://www.linkedin.com/in/plogicador/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
       </div> 
 </p>
 
