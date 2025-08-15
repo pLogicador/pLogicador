@@ -53,25 +53,4 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
     </td>
 </table>
 
-<table>
-  <td align="center" width="96">
-      <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    </td>
-      <td align="center" width="96">
-      <img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-    </td>
-</table>
-
 <br />
