@@ -17,6 +17,7 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
 
 #
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pLogicador&bg_color=0D0D0D&color=444DF2&line=F2D43D&point=A60303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
@@ -26,31 +27,6 @@ Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong 
 
 <br />
 
+<!----
 <img src="https://github-profile-trophy.vercel.app/?username=pLogicador&theme=dracula&row=2&no-bg=true&column=8&margin-w=20&margin-h=15" />
-
-
-#
-
-### 🚀 Tools
-<table>
-  <td align="center" width="96">
-      <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    </td>
-      <td align="center" width="96">
-      <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    </td>
-    <td align="center" width="96">
-      <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-    </td>
-</table>
-
-<br />
+--->
