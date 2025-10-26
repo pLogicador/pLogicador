@@ -1,8 +1,25 @@
-# 👨‍💻 Hello, I'm Pedro Miranda
+# 👋 Hey there, I'm Pedro Miranda
 
-**`Back-End Developer (Clean Code Enthusiast)`**
+**`Founder @ Syncron | Back-End Developer (Node.js, TypeScript & Python)`**
 
-Pedro Miranda, also known as pLogicador, is a technology enthusiast with strong programming skills, specializing in back-end development. His creative approach to overcoming complex challenges stands out, showcasing his commitment to technical excellence. Additionally, Pedro actively shares his diverse technology projects in this repository, providing free access for anyone interested in exploring his varied contributions to the field.
+I'm a back-end developer and founder of **[Syncron](https://www.syncron.pro)** — a platform focused on automation, live streaming management, and online content organization.
+
+With experience in building **RESTful APIs**, **system integrations**, and **scalable architectures**, I’m passionate about clean code, modular design, and delivering real value to users through automation and well-structured solutions.
+
+You’ll find here a collection of my open-source projects, experiments, and tools that reflect my continuous learning journey in software development.
+
+---
+
+💡 **Technologies I work with:**
+- **Languages:** Node.js, TypeScript, Python, Java (Spring Boot)
+- **Front-end:** React, Next.js  
+- **Databases:** MongoDB, PostgreSQL, MySQL, SQLite  
+- **Tools & DevOps:** Git, GitHub, Docker, Postman  
+
+---
+
+☕ *Fueled by coffee, driven by curiosity, and always exploring ways to make tech work smarter.*
+
 
 <p align="center">
       <a href="https://github.com/pLogicador?tab=followers">
